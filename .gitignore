@@ -1,0 +1,8 @@
+**/*.html
+dist
+*.egg-info
+_env
+.vscode
+__pycache__/
+*.py[cod]
+*$py.class
