@@ -18,4 +18,4 @@ python pynumbie/numbie.py -s 1 -e 15 -x 4 1 8 2 12
 ```
 
 The last command runs _PyNumbie_ to return a number between 
-1 and 15 omitting 4, 1, 8, 2, 12.
+1 and 15 where 4, 1, 8, 2, 12 are omitted.
