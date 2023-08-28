@@ -3,7 +3,6 @@ from random import choice
 
 
 def random_integer(start, stop, excluded = []):
-    print(f"start = {start}, stop = {stop}, excluded = {excluded}")
     return choice(list(set(range(start, stop)) - set(excluded)))
 
 
